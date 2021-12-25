@@ -1,5 +1,5 @@
 - :snail: Hi, I’m Tianyi Li
-- :maple_leaf: I’m interested in Analytical solution of fluid and temperature distribution.
+- :maple_leaf: I’m interested in Analytical solution of fluid and heat&mass transfer problems.
 - :grapes: I’m currently learning imagine processing to deal with the figures taken from fluid experiments.
 - :coconut: Any one interested in analytical solution or thermal fluids is welcome to contact me at tianyilee0415@knights.ucf.edu.
 
