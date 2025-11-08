@@ -1,7 +1,7 @@
 - :snail: Hi, I’m Tianyi Li
 - :maple_leaf: I’m interested in Analytical solutions of heat and mass transfer problems.
 - :grapes: I’m currently learning numerical methods for Computational Fluid Dynamics.
-- :coconut: Anyone interested in analytical solutions or thermal fluids is welcome to contact me at ti009796@ucf.edu.
+- :coconut: Anyone interested in analytical solutions or thermal fluids is welcome to contact me at tianyili0415@gmail.com.
 
 <!---
 MTone92/MTone92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
